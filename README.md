@@ -1,16 +1,14 @@
-## Hi there 👋
+<div align="center">
+  <img height="200" src="https://i.kym-cdn.com/editorials/icons/mobile/000/004/391/Hello_there.jpg"  />
+</div>
 
-<!--
-**copyandpaetow/copyandpaetow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I like UI work and everything that moves in the browser. I usually try to be activly lazy with my projects, where I spend a lot of time not having to spend more time in the future. This is why I am currently looking into web-components.
+It's also a good reason to procrastinate learning rust. 
 
-Here are some ideas to get you started:
+more about me: 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- I like the cascade in CSS 
+- I care about on-screen performance
+- I know enough about a11y to know how little I know
+- I chuckle about quotes like "why use 2 lines of CSS when you can use 150 lines of react"
+
