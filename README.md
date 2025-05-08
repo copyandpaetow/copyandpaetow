@@ -5,10 +5,8 @@
 I like UI work and everything that moves in the browser. I usually try to be activly lazy with my projects, where I spend a lot of time not having to spend more time in the future. This is why I am currently looking into web-components.
 It's also a good reason to procrastinate learning rust. 
 
-more about me: 
+some spicey "hot takes": 
 
-- I like the cascade in CSS 
-- I care about on-screen performance
-- I know enough about a11y to know how little I know
-- I chuckle about quotes like "why use 2 lines of CSS when you can use 150 lines of react"
-
+- The (C)ascade in CSS is great
+- Instantly reaching for react/javascript is a mistake. Sometimes 2 lines of CSS can avoid 100 lines of react code 
+- make it work, make it good, and then make it fast (if you have time). This implies it was made good. Too many people/AI stops after the first part
